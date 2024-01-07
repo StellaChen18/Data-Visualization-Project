@@ -1,4 +1,3 @@
-# FIT5147 Data Visualisation Project 
 # Restaurants near me - Uber Eats
 This is an app for the FIT5147 DVP. 
 
