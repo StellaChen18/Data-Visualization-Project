@@ -1,0 +1,83 @@
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+a {
+  font-size: 25px;
+}
+
+
+h3 {
+  color: #FF7733;
+  font-size: 35px;
+  text-shadow: 1px 2px 2px #E2D1E7;
+}
+
+.radio {
+  color: white;
+  font-size: 20px;
+}
+
+#rankingtype-label {
+  color: #FF7733;
+  font-size: 20px;
+  text-shadow: 1px 2px 2px white;
+}
+
+#rankingtype {
+  background: #FFE79F;
+}
+
+#txt {
+  color: grey;
+  font-size: 25px;
+}
+
+.well{
+  background: #FFE79F;
+}
+
+#pricetype-label {
+  color: #FF7733;
+  font-size: 20px;
+  text-shadow: 1px 2px 2px white;
+}
+
+.leaflet-control {
+  background: #FFE79F;
+}
+
+.active {
+  color: #FF7733;
+  font-size: 20px;
+  text-shadow: 0.5px 1px 1px white;
+}
+
+span {
+  color: grey;
+  font-size: 20px;
+  text-shadow: 0.5px 1px 1px white;
+}
+
+.container-fluid {
+  background-color: #FFE79F;
+  padding: 10px;
+  border-radius: 5px;
+  color: #FF7733;
+  font-size: 20px;
+}
+
+p {
+  color: grey;
+  font-size: 25px;
+}
+
+details > summary:first-of-type {
+    display: list-item;
+    counter-increment: list-item 0;
+    list-style: inside disclosure-closed;
+}
+
+
+
