@@ -1,4 +1,13 @@
+# FIT5147 Data Visualisation Project 
 # Restaurants near me - Uber Eats
+This is an app for the FIT5147 DVP. 
+
+The creator of this app is **Yunzhi Chen**.
+
+The data used for this PROJECT is the `Restaurant and Uber data` that are in-built in R. 
+
+The intended target audience for communicating this key information will be Uber Eats users, who will have a new perspective on U.S. restaurant data by communicating key information about nearby restaurants, choosing restaurants more informative and mutually beneficial for both restaurants and customers, thus contributing to the economic growth of the restaurant industry and even the take-out industry. The integration of restaurant data also makes it easier for people to understand the overall information of the nation's gourmet restaurants and provides a more comprehensive picture for data analysts.
+
 ## Introduction
 In 2014, Uber introduced Uber Eats, an online food ordering and delivery platform accessible via a mobile app or web browser. Users can explore menus, check restaurant locations and ratings, and conveniently order and pay for their favorite foods with a simple tap.
 
